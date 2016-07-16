@@ -7,5 +7,10 @@ public class HelloWorld {
 		System.out.println("Test String");
 		System.out.println("HIM BREAKING IT");
 		
+		
+		
+		System.out.println("Hey Eric when do you want to goto your friends marching band thing?");
+		System.out.println("The weather seems to be getting nicer!!");
+		
 	}
 }
