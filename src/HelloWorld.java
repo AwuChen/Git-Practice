@@ -12,6 +12,8 @@ public class HelloWorld {
 		System.out.println("yeah I think so too!!");
 		System.out.println("THIS IS AN ADDITIONAL CHANGE");
 		//I want to know how to use git diff.............................................................
+		//Me too... 
+		//when do we have to leave?
 		System.out.println("Hey Eric when do you want to goto your friends marching band thing?");
 		System.out.println("The weather seems to be getting nicer!!");
 	
