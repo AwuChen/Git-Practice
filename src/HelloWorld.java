@@ -16,5 +16,11 @@ public class HelloWorld {
 		System.out.println("The weather seems to be getting nicer!!");
 	
 		System.out.println("It starts at 2pm.  I will douoble check the band list to see what time is best.");
+		
+		
+		
+		///////******* Events *******///////
+		// https://www.facebook.com/events/653810461434680/
+		// https://www.facebook.com/events/832930333485240/
 	}
 }
