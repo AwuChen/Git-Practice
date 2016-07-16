@@ -24,5 +24,10 @@ public class HelloWorld {
 		///////******* Events *******///////
 		// https://www.facebook.com/events/653810461434680/
 		// https://www.facebook.com/events/832930333485240/
+		
+		///////******* git resrouce *******///////
+		// A better git diff explanation:
+		// https://git-scm.com/docs/git-diff
+		
 	}
 }
