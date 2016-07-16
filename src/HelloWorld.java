@@ -9,7 +9,7 @@ public class HelloWorld {
 		System.out.println("Hey, I think this is working.");
 		System.out.println("I hope this causes a problem");
 		System.out.println("yeah I think so too!!");
-		
+		System.out.println("THIS IS AN ADDITIONAL CHANGE");
 		
 		
 		System.out.println("Hey Eric when do you want to goto your friends marching band thing?");
