@@ -18,7 +18,7 @@ public class HelloWorld {
 		System.out.println("The weather seems to be getting nicer!!");
 	
 		System.out.println("It starts at 2pm.  I will douoble check the band list to see what time is best.");
-		
+		//I think I should head home now
 		
 		
 		///////******* Events *******///////
