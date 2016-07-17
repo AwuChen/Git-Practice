@@ -20,6 +20,7 @@ public class HelloWorld {
 		System.out.println("It starts at 2pm.  I will douoble check the band list to see what time is best.");
 		//I think I should head home now
 		
+		//ERIC!!!!!!! I figured out the controlls!!!!!! It's working!!!!!7/18 5:21
 		
 		///////******* Events *******///////
 		// https://www.facebook.com/events/653810461434680/
